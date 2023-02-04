@@ -1,3 +1,5 @@
 # Example README
 
-This is an example README file
+This is an example README file sample
+
+Second line added
